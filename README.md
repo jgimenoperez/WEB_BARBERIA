@@ -17,6 +17,6 @@ Tambien existe el fichero database.sql para crear la estructura e importar datos
 Por si hubiera algun problema he habilitado dentro la carpeta DOCS una version sin PHP y sin Mysql
 Los datos se toman de un JSON por medio de javascript.
 
-Web distribuido mediante GITHUB PAGES
+Web distribuido mediante GITHUB PAGES  
 https://jgimenoperez.github.io/WEB_BARBERIA/  
 http://jgimenocontinuouslearning.xyz/  
