@@ -18,5 +18,5 @@ Por si hubiera algun problema he habilitado dentro la carpeta DOCS una version s
 Los datos se toman de un JSON por medio de javascript.
 
 Web distribuido mediante GITHUB PAGES
-https://jgimenoperez.github.io/WEB_BARBERIA/
-http://jgimenocontinuouslearning.xyz/
+https://jgimenoperez.github.io/WEB_BARBERIA/  
+http://jgimenocontinuouslearning.xyz/  
