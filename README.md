@@ -19,3 +19,4 @@ Los datos se toman de un JSON por medio de javascript.
 
 Web distribuido mediante GITHUB PAGES
 https://jgimenoperez.github.io/WEB_BARBERIA/
+http://jgimenocontinuouslearning.xyz/
